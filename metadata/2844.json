@@ -1,0 +1,27 @@
+{
+  "name": "Agent Morph #2844",
+  "description": "A unique AI-generated collectible created through Agent Morph.",
+  "image": "https://agent-morph.netlify.app/images/2844.png",
+  "attributes": [
+    {
+      "trait_type": "Base Character",
+      "value": "Character 09"
+    },
+    {
+      "trait_type": "Frame",
+      "value": "frame-cyan"
+    },
+    {
+      "trait_type": "Vignette",
+      "value": "vignette-cyan"
+    },
+    {
+      "trait_type": "Particles",
+      "value": "particles-10"
+    },
+    {
+      "trait_type": "Limited Edition",
+      "value": "No"
+    }
+  ]
+}
