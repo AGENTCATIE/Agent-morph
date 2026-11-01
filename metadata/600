@@ -1,7 +1,7 @@
 {
   "name": "Agent Morph #0600",
   "description": "A unique AI-generated collectible created through Agent Morph.",
-  "image": "https://agent-morph.netlify.app/images/600.png",
+  "image": "https://agent-morph.netlify.app/images/0600.png",
   "attributes": [
     {
       "trait_type": "Base Character",
