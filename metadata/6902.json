@@ -1,0 +1,27 @@
+{
+  "name": "Agent Morph #6902",
+  "description": "A unique AI-generated collectible created through Agent Morph.",
+  "image": "https://agent-morph.netlify.app/images/6902.png",
+  "attributes": [
+    {
+      "trait_type": "Base Character",
+      "value": "Character 02"
+    },
+    {
+      "trait_type": "Frame",
+      "value": "frame-gold"
+    },
+    {
+      "trait_type": "Vignette",
+      "value": "vignette-magenta"
+    },
+    {
+      "trait_type": "Particles",
+      "value": "particles-11"
+    },
+    {
+      "trait_type": "Limited Edition",
+      "value": "No"
+    }
+  ]
+}
